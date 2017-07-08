@@ -1,0 +1,29 @@
+.container {
+	width:80%;
+	margin: 10px 10% 0 10%;
+}
+.relative {
+	position: relative;
+	height: 200px;
+	background-color: lightgray;
+	padding: 100px 20px;
+	text-align: center;
+}
+.absolute {
+	position: absolute;
+	background: darkgray;
+	padding: 40px 60px 40px 60px;
+	right: 80px;
+	top: 506px;
+}
+.fixed {
+	position: fixed;
+	width: 150px;
+	height: 90px;
+	background: lightgray;
+	top: 0;
+	left: 0;
+}
+p {
+	line-height: 1.5em;
+}

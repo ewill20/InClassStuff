@@ -1,0 +1,35 @@
+header {
+	background-color: #ccc;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width:100%;
+	text-align: center;
+}
+#section1 {
+	background-color: #666;
+	width: 30%;
+	float: left;
+	text-align: center;
+	margin: 10px 20px 10px 20px;
+	padding: 10px 20px 10px 20px;
+	
+}
+#section2 {
+	background-color: #888;
+	width: 30%;
+	float: left;
+	text-align: center;
+	margin: 10px 20px 10px 20px;
+	padding: 10px 20px 10px 20px;
+	
+}
+#section3 {
+	background-color: #666;
+	width: 30%;
+	float: left;
+	margin: 10px 20px 10px 20px;
+	padding: 10px 20px 10px 20px;
+	text-align: center;
+	
+}
+

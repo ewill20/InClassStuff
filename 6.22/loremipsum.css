@@ -1,0 +1,44 @@
+#text {
+	font-family: 'Acme', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 1.5em;
+	letter-spacing: .01em;
+	width: 500px;
+}
+#IpsumLorem, h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 18px;
+	font-weight: italic;
+	line-height: 2em;
+	width: 700px;
+	float: right;
+	position: relative;
+	top: -250px;
+	background-color: lightgray;
+	padding: 10px 10px 10px 10px;
+	border: solid black;
+	
+}
+body {
+	background-color: lightblue;
+
+}
+title {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 24px;
+	line-height: 1.3em
+}
+#LoremIpsum {
+	font-family: 'Comfortaa', cursive;
+	font-size: 33px;
+	width: 400px;
+	background-color: darkgray;
+	margin-left: 80px;
+	border: solid pink;
+	text-align: center;
+
+}
+h2 {
+	text-align: center;
+}
